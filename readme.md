@@ -44,8 +44,8 @@ constructor(
 KipuBank bank = new KipuBank(
     1_000 * 1e6, // retiro máximo: 1000 USDC
     10_000 * 1e6, // límite máximo por usuario: 10.000 USDC
-    0x1B1B5f6fB9C2E2b8aE2464aF2dC2E2e5Dcd4DDBF, // USDC
-    0x694AA1769357215DE4FAC081bf1f309aDC325306 // ETH/USD feed
+    0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48, // USDC
+    0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419 // ETH/USD feed
 );
 ```
 
